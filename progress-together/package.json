@@ -1,0 +1,1 @@
+{"name":"progress-together","version":"1.0.0","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18"},"dependencies":{"pg":"^8.11.3"},"optionalDependencies":{"pdf-parse":"1.1.1"}}
